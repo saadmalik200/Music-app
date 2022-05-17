@@ -16,9 +16,10 @@ section {
   margin: 10rem auto;
   text-align: center;
   border: #bebebe solid 3px;
-  width: 22rem;
-  background-color: #d4d4d4;
+  width: 24rem;
+  background-color: #c5c2c2;
   border-radius: 1rem;
+  box-shadow: 10px 5px 5px rgba(208, 198, 198, 0.737);
 }
 
 .article1 {
@@ -35,7 +36,7 @@ section {
 .button-inset {
   border-radius: 10px;
   background: #e0e0e0;
-  box-shadow: inset 20px 20px 40px #b4b1b1, inset -20px -20px 40px #ffffff;
+  box-shadow: inset 5px 5px 10px #d2d2d2, inset -5px -5px 10px #efeded;
   width: 4rem;
   height: 4rem;
   /* border: 1px solid #e0e0e0; */
@@ -56,6 +57,7 @@ section {
   border-radius: 50%;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  box-shadow: 10px 5px 5px rgba(90, 85, 85, 0.685);
 }
 
 .article3 h2 {
@@ -111,7 +113,7 @@ section {
 .forBack {
   border-radius: 10px;
   background: #e0e0e0;
-  box-shadow: 20px 20px 40px #b4b1b1, -20px -20px 40px #ffffff;
+  box-shadow: 10px 10px 20px #b4b1b1, -10px -10px 20px #dad7d7;
   width: 4rem;
   height: 4rem;
   border: 1px solid #e0e0e0;
@@ -121,7 +123,11 @@ section {
 .play {
   border-radius: 20px;
   background: #e0e0e0;
-  box-shadow: inset 20px 20px 40px #b4b1b1, inset -20px -20px 40px #ffffff;
+  box-shadow: inset 5px 5px 10px #d2d2d2, inset -5px -5px 10px #efeded;
+  /* border-radius: 20px;
+  background: #e0e0e0;
+  box-shadow: inset 20px 20px 40px #bebebe, inset -20px -20px 40px #ffffff; */
+
   width: 3.7rem;
   height: 4rem;
   /* border: 1px solid #e0e0e0; */
