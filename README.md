@@ -18,7 +18,7 @@
 
 ## Link
 
-- Live Site URL: [https://saadmalik200.github.io/Neumorphic-Music-app/](https://saadmalik200.github.io/Neumorphic-Music-app/)
+- Live Site URL: [https://saadmalik200.github.io/Neumorphic-Music-Player/](https://saadmalik200.github.io/Neumorphic-Music-Player/)
 
 ### Challenge
 
